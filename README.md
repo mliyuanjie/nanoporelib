@@ -1,2 +1,3 @@
 # nanoporelib
-components for hydrodynamic brownian simulation, nanopore data analysis, and necessary tools in usage， replace cfunction.pyd in future for compatiable of different python version. 
+components for hydrodynamic brownian simulation, ellipsoid, ridigs beads roration simulation,  and necessary tools in usage， 
+will replace cfunction.pyd in future for compatiable of different python version. 
